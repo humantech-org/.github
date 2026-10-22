@@ -1,4 +1,4 @@
-# Humantech
+# HumanTech
 
 **Software designed around people.**
 
